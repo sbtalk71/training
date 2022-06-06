@@ -1,2 +1,3 @@
 alice adds file 2
 bob adds line 2
+alice adds line 2
